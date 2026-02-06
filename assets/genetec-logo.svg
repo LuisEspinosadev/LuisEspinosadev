@@ -1,0 +1,12 @@
+<svg width="420" height="180" viewBox="0 0 420 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="180" rx="24" fill="#05070d"/>
+  <defs>
+    <linearGradient id="glow" x1="48" y1="40" x2="372" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#49c1ff"/>
+      <stop offset="1" stop-color="#2a67ff"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="210" cy="90" rx="150" ry="46" stroke="url(#glow)" stroke-width="8"/>
+  <ellipse cx="210" cy="90" rx="168" ry="60" stroke="url(#glow)" stroke-width="3" opacity="0.6"/>
+  <text x="210" y="104" text-anchor="middle" font-size="52" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" fill="url(#glow)">GENETEC</text>
+</svg>
